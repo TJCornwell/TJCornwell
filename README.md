@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TJCornwell 
-- 🌱 I know C++, C#, Python, HTML, CSS, Java
+- 🌱 I know C++, C#, Python, and I am learning HTML, CSS, and Java
 - 📫 How to reach me my email is tjcornwell4@gmail.com
 
 <!---
